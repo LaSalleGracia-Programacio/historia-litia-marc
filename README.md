@@ -62,7 +62,11 @@ Quan cloneu el vostre repositori trobareu:
 ---
 
 ## Reflexió final
-- Què ha passat quan heu intentat pujar sense fer `pull`?  
-- Què heu après sobre els conflictes?  
-- Què us ha ajudat a mantenir la història coherent?  
-- Per què és útil treballar amb branques en projectes de programació reals?  
+- Què ha passat quan heu intentat pujar sense fer `pull`?
+Causava conflicte per les diferents versions
+- Què heu après sobre els conflictes?
+Al menys el visual studio et crea una mini finestra d'errors per poder combinar les dos versions
+- Què us ha ajudat a mantenir la història coherent?
+La comunicació amb el company de projecte.
+- Per què és útil treballar amb branques en projectes de programació reals?
+Per no dificultar el treball afegit de l'altre company.
